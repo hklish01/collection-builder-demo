@@ -3,9 +3,9 @@ Home,/
 Browse,/browse.html
 Subjects,/subjects.html
 Locations,/locations.html
-Map,,
-Map,/map.html,Map
+Mapping,,
+Map,/map.html,Mapping
+Mapper,/mapper.html,Mapping
 Timeline,/timeline.html
-Mapper,/mapper.html,Map
 Data,/data.html
 About,/about.html
